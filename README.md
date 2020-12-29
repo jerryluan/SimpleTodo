@@ -32,7 +32,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Even I have developed the app, I still confused with the app's functionality. 
+Why do you know which function or variate is approperiate for the app?
+There are a bouch of knowledge to learn from the course. 
 
 ## License
 
