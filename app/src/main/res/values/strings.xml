@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple—Todo</string>
+    <string name="add_item">ADD ITEM</string>
+    <string name="add_the_items_here">Add the items here</string>
+</resources>
